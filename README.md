@@ -7,4 +7,7 @@ Used on your own responsibilty.
 
 
 <h2>How to use?</h2>
-Copy the code in files-download-page.php to your functions.php file, in your wordpress theme. and add a theme template for the child download page.
+<ol>
+<li>Copy files-download-page.php to your wp plugins fiolder, then activate the plugin</li>
+<li>Make a  template for the child download page in your theme folder. Or, use single-post-download.php file as a start</li>
+</ol>
