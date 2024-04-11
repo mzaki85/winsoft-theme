@@ -10,5 +10,5 @@ It is now free for every one to use and modify.
 <h2>How to use?</h2>
 <ol>
 <li>Copy files-download-page.php to your wp plugins fiolder, then activate the plugin</li>
-<li>Make a  template for the child download page in your theme folder. Or, use single-post-download.php file as a start</li>
+<li>Make a  template for the child page in your theme folder. Or, use single-post-download.php file as a start</li>
 </ol>
